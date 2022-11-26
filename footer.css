@@ -1,0 +1,77 @@
+.footer1{
+    margin-top: 30px;
+    width: 99%;
+    height: 280px;
+    /* border: 1px solid red; */
+    display: flex   ;
+}
+.horizontal_line{
+    margin-top: 10px;
+    border-style: inset;
+    border-width: 0.5   px;
+}
+.company{
+    font-family: 'Secular One', sans-serif;
+    color: white;
+    margin-left: 70px;
+    width: 200px;
+    height: 250px;
+    /* border: 1px solid red; */
+    font-size: 12px;
+    margin-right: 60px;
+}
+.a{
+    font-family: 'Secular One', sans-serif;
+    /* border: 1px solid red; */
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+}
+.a:hover{
+    background-color: white;
+    color: black;
+}
+.follow{
+    display: flex;
+    width: 300px;
+    height: 50px;
+    /* border: 1px solid red; */
+    margin-top: 80px;
+}
+.f1{
+    padding: 10px 0px;
+    color: white;
+}
+.b1{
+    color: rgb(209, 19, 101);
+    margin-left: 30px;
+    margin-right: 20px;
+}
+.anysuggestion{
+    margin-left: 90px;
+    width: 300px;
+    height: 250px;
+    /* border: 1px solid red; */
+}
+.tit{
+    font-family: 'Secular One', sans-serif;
+    color: white;
+    text-align: center;
+    padding-top:20px ;
+}
+.main{
+    font-family: 'Secular One', sans-serif;
+    color: white;
+    text-align: center;
+    padding-top:20px ;
+}
+.mail{
+    /* border: 1px solid red; */
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+.mail:hover{
+    color: white;
+    background-color: black;
+}

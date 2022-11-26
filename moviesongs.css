@@ -1,0 +1,40 @@
+.container{
+    width:99%;
+    height: 620px;
+    /* border: 1px solid red; */
+    display: flex;
+}
+.child1{
+    width: 40%;
+    height: 618px;
+    background-color: #222428;
+    margin-right: 30px;
+    margin-left: 50px;
+    /* border: 1px solid white; */
+}
+.child2{
+    background-color: #222428;
+    width: 60%;
+    height: 618px;
+    /* border: 1px solid white; */
+}
+.title{
+    color: rgb(206, 193, 193);
+    font-family: 'Secular One', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+/* .songs{
+    margin-bottom: px;
+} */
+.songs audio{
+    width: 400px;
+}
+.s1{
+    color:rgb(206, 193, 193) ;
+    margin-bottom: 10px;
+
+}
+.allsongs{
+    text-align: center;
+}
